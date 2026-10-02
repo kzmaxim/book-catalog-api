@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "7a6c3836cec0333d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd4e49cc961c4f45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6085b657e3b4a661",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c52cffb1d95f9c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "752956bbe09d2027",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "743c0ac8fd454201",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "72852fb9878512b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "2b29b62ad053b048",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5c2ef9f33af7aee7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4534d2894b98602",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "994272baaae8e4d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для README"
+            }
+          },
+          {
+            "id": "e10d56696f7ae66c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из README"
+            }
+          },
+          {
+            "id": "335920f2ab016936",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "52607c155e1b4bf0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "4cabe8920391383a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "6085b657e3b4a661",
+  "lastOpenFiles": [
+    "screenshots/Pasted image 20261002141111.png",
+    "README.md",
+    "README.md",
+    "screenshots/Pasted image 20261002142215.png",
+    "screenshots/Pasted image 20261002142129.png",
+    "screenshots/Pasted image 20261002142048.png",
+    "screenshots/Pasted image 20261002142022.png",
+    "screenshots/Pasted image 20261002141954.png",
+    "screenshots/Pasted image 20261002141820.png",
+    "screenshots/Pasted image 20261002141734.png",
+    "screenshots/Pasted image 20261002141719.png",
+    "screenshots/Pasted image 20261002141236.png",
+    "Pasted image 20261002142215.png",
+    "BookCatalogApi/books.db-shm",
+    "BookCatalogApi/books.db-wal",
+    "BookCatalogApi/obj/059ef203-7a02-4372-a2b3-84fefbf383d0.tmp",
+    "BookCatalogApi/bin/Debug/net10.0/BookCatalogApi.pdb",
+    "BookCatalogApi/obj/Debug/net10.0/ref/BookCatalogApi.dll",
+    "BookCatalogApi/bin/Debug/net10.0/BookCatalogApi.dll",
+    "BookCatalogApi/bin/Debug/net10.0/BookCatalogApi.runtimeconfig.json",
+    "BookCatalogApi/obj/Debug/net10.0/BookCatalogApi.genruntimeconfig.cache",
+    "BookCatalogApi/bin/Debug/net10.0/BookCatalogApi.deps.json",
+    "BookCatalogApi/bin/Debug/net10.0/BookCatalogApi.staticwebassets.endpoints.json"
+  ]
+}
